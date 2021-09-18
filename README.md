@@ -1,9 +1,9 @@
 # MVC-Native
 
-# UTS
+# UTS_PL2
 
-NPM: 14197071
+NPM: 14190030
 <br></br>
-Nama: Alwi Sahrul Ramadhan
+Nama: Rijal ahmad junaedi
 <br></br>
 Kelas: C
